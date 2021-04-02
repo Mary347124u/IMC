@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\SharpDevelop Projects\imc\imc\bin\Debug\imc.exe.config
+C:\Users\DELL\Documents\SharpDevelop Projects\imc\imc\bin\Debug\imc.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\imc\imc\bin\Debug\imc.pdb
+C:\Users\DELL\Documents\SharpDevelop Projects\imc\imc\obj\Debug\imc.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\SharpDevelop Projects\imc\imc\obj\Debug\imc.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\imc\imc\obj\Debug\imc.pdb
